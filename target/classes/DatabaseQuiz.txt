@@ -1,0 +1,30 @@
+What is NOT true of databases?|central storage|data enforces consistency and integrity|can only handle small amounts of data*|can guarantee data type
+Holds text containing letters and numbers of varying length up to a max length:|varchar*|char|boolean|binary
+Are called attributes:|entity|columns*|rows
+Stored as a table:|entity*|columns|rows
+Represent individual records:|entity|columns|rows*
+Data type with fixed length field containing a stream of characters:|varchar|char*|boolean|binary
+Data type used to store images:|varchar|char|boolean|binary*
+Which keyword specifies which table you want to retrieve data from?|SELECT|WHERE|AS|FROM*
+Which type of case do you make aliases in databases?|Camel case| Pascal case|Snake case*|Kabob case
+Database design technique which organizes tables in a manner that reduces redundancy and dependency of data:|Serial|Cardinality|Ordinality|Normalization*
+All the columns are dependent on the primary key which describes the entity|First normal form|Second normal form|Third normal form*|Fourth normal form
+True or False: a benefit of 3rd normal form is that it allows you to find other relationships by combining tables (gives you new information about the data)|True*|False
+An attack where a special value is passed into your app that is executed by the database- causing it to retrieve or delete information.|Dependency Injection|SQP Injection*
+True or False: connection strings shouldn't be written directly in our code because they require a username and password which could compromise the security of our data.|True*|False
+The DTO would be:|the model class*|the DAO interface|the DAO class
+Allows for loose coupling and the database to be switched out (avoids external dependencies)|DAO pattern*|Transactions|CRUD
+True or False: we don't need to test a DAO against a database in order to see if it's functioning correctly.|True|False*
+What is NOT part of the acronym CRUD?|Create|Read|Update|Define*
+True or False: A test database with mock data can be hosted locally or remotely OR can be embedded/ in-memory.|True*|False
+What is the first step in loading a website in a browser?|browser sends an HTTP request to web server|browser displays the web page|server finds the requested resource|enter the URL in the browser*
+What step happens after the server finds the requested resource (when trying to load a website in a browser)?|enter the URL in the browser|browser displays the web page|server sends back a HTTP response containing the resource*|browser sends an HTTP request to web server
+What does JSON stand for?|Java Specific Object Notation|JavaScript Object Notation*|Java Specific Oriented Notation|JavaScript Oriented Notation
+True or false: JSON is a data-interchange format that's language dependent and human-readable|True|False*
+Converts a JSON string into an object (or array of objects):|serialization|HTTP request|deserialization*|API
+Where a framework injects instances of required classes into a new object rather than the object itself creating them (creates loosely coupled code).|Dependency Injection*|SQL Injection
+A generic term- The concept or paradigm rather than the implementation|Inversion of Control(IoC)*|Dependency Injection (DI)
+What does REST stand for?|Resource State Transmit|Resource Serial Transfer|Representational Serial Transmit|Representational State Transfer*
+What does SQL stand for?|Structured Query Language*|Sequence Query Location|System Query Language
+Holds the data- used when you are "talking" between applications (honors contract with the outside world)|DTO(data transfer object)*|DAO(data access object)
+Gets data but doesn't hold it|DTO(data transfer object)|DAO(data access object)*

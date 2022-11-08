@@ -1,0 +1,5 @@
+Provides formatting of the document to control presentation and layout:|HTML|CSS*|JavaScript
+Provides behavior to the document:|HTML|CSS|JavaScript*
+Provides the basic structure or markup of a document:|HTML*|CSS|JavaScript
+Style sheet language used for describing the presentation of a document written in a markup language:|HTML|CSS*|JavaScript
+Which of the following is NOT one of the properties in the box model (CSS)|Content*|Padding|Border|Margin

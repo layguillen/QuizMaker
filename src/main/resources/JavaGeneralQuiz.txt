@@ -1,0 +1,11 @@
+If one operand in the expression is true and the other is false the result of the expression is true|&& (AND)|^ (XOR)*|! (NOT)|> (greater than)
+True of False: in Java we need to cast a long to an integer but not an integer to a long.|True*|False
+The memory space where arrays and objects go:|The Heap*|The Stack
+Using these allows you to encapsulate the logic needed to make your instance of a class (object) function:|constructors|instance variables|methods*
+A set amount of memory that stores some of the basic values of an application:|The Heap|The Stack*
+Special method of a class that initializes an object of that class:|constructors*|instance variables
+Declares that a property or method belongs to the class itself and not an instance of it:|@Override|static*|private|final
+A programming paradigm characterized by the identification of classes of objects closely linked with the methods with which they are associated|VCS|MVC|OOP*|URL
+True or false: A stream is a data structure that reads data as a series of ordered bytes|True*|False
+True or false: Using finally at the end of try-catch can be used to dispose of resources|True*|False
+conditional ? true_value : false_value represents what?|Greater than or Equal to|Less than or Equal to|Ternary Operator*|XOR Operator

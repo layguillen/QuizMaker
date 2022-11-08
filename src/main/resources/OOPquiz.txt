@@ -1,0 +1,18 @@
+Which is NOT a principle of OOP?|Inheritance|Encapsulation|Repetition*|Polymorphism
+Which is sometimes considered the forth principle of OOP?|Abstraction*|Articulation|Appreciation|Allowance
+The packaging of data and functions into a single component:|Inheritance|Encapsulation*|Abstraction|Polymorphism
+Used for variable names:|Pascal Case|Snake Case|Kabob Case|Camel Case*
+Used for Class names and Constructors:|Pascal Case*|Snake Case|Kabob Case|Camel Case
+Principle of handling complexity by hiding unnecessary details from the user:|Polymorphism|Inheritance|Encapsulation|Abstraction*
+Hiding the state of data within a class and limited points of access:|Polymorphism|Inheritance|Encapsulation*|Abstraction
+Which of the following is FALSE regarding a static variable:|is in one fixed location in memory|associated with an object, not the class*|its value can be changed by any object|can be manipulated without creating an instance of the class
+TRUE of FALSE: static methods are invoked with the class name, without the need for creating an instance of the class|True*|False
+Allows other classes to use a class without knowing anything about how the class works (hiding code implementation)|Inheritance|Encapsulation*|Abstraction|Polymorphism
+Encapsulation does NOT:|makes code extendable|promotes "tight coupling"*|makes code maintainable|promotes "loose coupling"
+Example: a forward and defender are both soccer players and both need the property of 'role', even if their roles are different|Inheritance*|Encapsulation|Abstraction|Polymorphism
+Example: making the property 'team colors' private so that a new 'Team' will create their own team colors without changing another team's colors|Inheritance|Encapsulation*|Abstraction|Polymorphism
+Example: having a 'teamChant' method that each 'Team' can change to print out a unique chant|Inheritance|Encapsulation|Abstraction|Polymorphism*
+Example: having a 'setRoster' method that each 'Team' MUST implement (list the players on the roster) prior to playing a game|Inheritance|Encapsulation|Abstraction*|Polymorphism
+The ability of code to have different usage or to be assigned different meaning based on the context (Ex: overriding a method)|Inheritance|Encapsulation|Abstraction|Polymorphism*
+Provides a contract of behavior but is not instantiated:|Interface*|Package|Class|Instance variable
+Allows for derived classes that are specializations of a base class:|Inheritance*|Encapsulation|Abstraction|Polymorphism
